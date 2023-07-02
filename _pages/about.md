@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me goes here.
+I am a third year PhD student at MIT Operations Research Center, co-adviser by Prof. Karen Zheng and Prof. Joann de Zegher. My research interests lie broadly in the areas of optimization and incentive design for social good, with applications in healthcare and sustainability. My current research agenda focuses on developing analytics tools and game theoretic models for improving livelihood and promoting sustainability in smallholder supply chains. 
 
 Projects
 ======
