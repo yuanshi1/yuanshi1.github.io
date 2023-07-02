@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan's Page"
+title                    : "Yuan Shi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan Shi"
   avatar           : "profile.png"
-  bio              : "I clearly can't make a website."
+  bio              : "PhD Candidate at MIT Operations Research Center who can't make a website."
   location         : "Boston, US"
   employer         :
   pubmed           : 
