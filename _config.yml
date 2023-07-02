@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuan Shi"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at MIT Operations Research Center who can't make a website."
+  bio              : "PhD Candidate at MIT Operations Research Center"
   location         : "Boston, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TXJ5cowAAAAJ&hl=en"
-  email            :
+  email            : "yuansh@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
