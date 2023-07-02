@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan's Personal Website"
+title                    : "Yuan's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
