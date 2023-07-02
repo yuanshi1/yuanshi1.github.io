@@ -14,14 +14,10 @@ My research interests lie broadly in the areas of optimization and incentive des
 
 Research
 ======
+## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
+_Under Revision at Management Science (Reject and Resubmit)_
+**Yuan Shi**, Joann de Zegher, Irene Lo
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
+_Forthcoming in Health Care Management Science, 2023_
+**Yuan Shi**, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
