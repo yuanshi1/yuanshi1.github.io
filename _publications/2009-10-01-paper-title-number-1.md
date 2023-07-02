@@ -1,7 +1,7 @@
 ---
 title: "Criteria for Early Pacemaker Implantation in Patients With Postoperative Heart Block After Congenital Heart Surgery"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 
 date: 2022-10-01
 venue: 'Circulation: Arrhythmia and Electrophysiology 15 (11)'
