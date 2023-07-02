@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Criteria for Early Pacemaker Implantation in Patients With Postoperative Heart Block After Congenital Heart Surgery"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 2022-10-01
+venue: 'Circulation: Arrhythmia and Electrophysiology 15 (11)'
+paperurl: 'https://www.ahajournals.org/doi/full/10.1161/CIRCEP.122.011145'
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Brian Han, Danielle Sganga, Michael Ma, Charitha D Reddy, Andrew Y Shin, David M Kwiatkowski, Anne M Dubin, David Scheinker, Claudia A Algaze.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
