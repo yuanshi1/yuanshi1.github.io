@@ -12,7 +12,7 @@ I am a third year PhD student at MIT Operations Research Center, co-advised by P
 
 My research interests lie broadly in the areas of optimization and incentive design for social good, with applications in healthcare and sustainability. My current research agenda focuses on developing analytics tools and game theoretic models for improving livelihood and promoting sustainability in smallholder supply chains. 
 
-Prior to MIT, I have worked as a fixed income analyst at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in Hangzhou, China and Singapore. 
+Prior to MIT, I have worked as a fixed income analyst at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
 Research
 ======
