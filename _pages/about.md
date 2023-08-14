@@ -19,7 +19,7 @@ Research
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi**, Joann de Zegher, Irene Lo
 
-_Reject and Resubmit at Management Science (Under Review)_
+_Major Revision at Management Science_
 
 ## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
 **Yuan Shi**, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
