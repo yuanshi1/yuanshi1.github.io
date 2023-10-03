@@ -16,11 +16,20 @@ Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanl
 
 Research
 ======
+## Incentive Design for Sustainable Practices in Smallholder Supply Chains
+Joint work with Joann de Zegher and Karen Zheng
+
+_Work in progress_
+
+* To present at INFORMS 2023
+
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi**, Joann de Zegher, Irene Lo
 
 _Major Revision, Management Science_
 
+* Presented at INFORMS 2022, EAAMO 2022
+  
 ## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
 **Yuan Shi**, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
 
@@ -32,5 +41,5 @@ Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Bria
 _Circulation: Arrhythmia and Electrophysiology, 2022_
 
 
-_(Last updated in July 2023)_
+_(Last updated in October 2023)_
 
