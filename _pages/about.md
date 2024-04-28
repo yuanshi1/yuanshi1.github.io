@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at MIT Operations Research Center, co-advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and Prof. [Joann de Zegher](https://www.jfdezegher.com/). 
+I am a third year PhD student at MIT Operations Research Center, advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and previously, Prof. [Joann de Zegher](https://www.jfdezegher.com/). 
 
-My research interests lie broadly in analytics and mechanism design for social good, with applications in healthcare and sustainability. My current research agenda focuses on developing analytics tools and game theoretic models for improving livelihood and promoting sustainability in smallholder supply chains. 
+My research interests lie broadly in analytics and mechanism design for social good, with applications in healthcare and sustainability. My current research agenda focuses on developing analytics tools and game theoretic models for (i) improving livelihood and promoting sustainability in smallholder supply chains and (ii) nonprofit operations.
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
@@ -19,9 +19,9 @@ Research
 ## Incentive Design for Sustainable Practices in Smallholder Supply Chains
 Joint work with Joann de Zegher and Karen Zheng
 
-_Work in progress_
+_Working Paper (Manuscript available upon request)_
 
-* To present at INFORMS 2023
+* To present at INFORMS 2023 and POMS 2024
 
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi**, Joann de Zegher, Irene Lo
