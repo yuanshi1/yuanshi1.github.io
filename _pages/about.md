@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and, previously, Prof. [Joann de Zegher](https://www.jfdezegher.com/). 
 
-My research interests lie broadly in analytics and mechanism design for social good, with applications in healthcare and sustainability. My current research agenda focuses on developing analytics tools and game theoretic models for (i) improving livelihood and promoting sustainability in smallholder supply chains and (ii) nonprofit operations.
+My research interests lie broadly in analytics and mechanism design for social good, ranging from healthcare, sustainability to nonprofit operations. My current research agenda focuses on developing analytics tools and game theoretic models for (i) improving livelihood and promoting sustainability in smallholder supply chains and (ii) optimizing nonprofit operations.
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
