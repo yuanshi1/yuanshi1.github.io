@@ -28,8 +28,10 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 Papers
 ======
+_*First author by contribution_
+
 ## Incentive Design for Sustainable Practices in Smallholder Supply Chains
-**Yuan Shi**, Joann de Zegher and Karen Yanchong Zheng
+**Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
 _In preparation to be submitted to Management Science_
 
@@ -37,7 +39,7 @@ _In preparation to be submitted to Management Science_
 * Presented at INFORMS 2023, POMS 2024 and MSOM 2024
 
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
-**Yuan Shi**, Joann de Zegher, Irene Lo
+**Yuan Shi***, Joann de Zegher, Irene Lo
 
 _Major Revision, Management Science_
 
@@ -46,7 +48,7 @@ _Major Revision, Management Science_
 * Accepted at EAAMO 2022
   
 ## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
-**Yuan Shi**, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
+**Yuan Shi***, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
 
 _Health Care Management Science, 2023_
 
