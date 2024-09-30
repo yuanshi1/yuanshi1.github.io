@@ -27,7 +27,6 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 
 Papers
-_*First author by contribution_
 ======
 ## Incentive Design for Sustainable Practices in Smallholder Supply Chains
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
@@ -58,6 +57,6 @@ Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Bria
 
 _Circulation: Arrhythmia and Electrophysiology, 2022_
 
-
+_*Indicates first author by contribution_
 _(Last updated in September 2024)_
 
