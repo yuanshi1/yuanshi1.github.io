@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and, previously, Prof. [Joann de Zegher](https://www.jfdezegher.com/). 
 
-My research interests lie broadly in analytics and mechanism design for social good, ranging from healthcare, sustainability to nonprofit operations. My current research agenda focuses on developing analytics tools and game theoretic models for (i) improving livelihood and promoting sustainability in smallholder supply chains and (ii) optimizing nonprofit operations. I am passionate about investigating the underlying mechnisms of decision making processes, as well as developing innovative and practically relevant solutions aimed for delivering impact in the real world.
+I am passionate about leveraging analytics and mechanism design to address social challenges, in areas including sustainability, nonprofit operations and healthcare provision. My research centers on exploring the underlying mechanisms of relevant decision-making processes and developing innovative, practical solutions that create tangible impact in the real world. My current research agenda focuses (i) improving livelihood and promoting sustainability in smallholder supply chains and (ii) optimizing nonprofit operations. 
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
@@ -27,8 +27,8 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 
 Papers
-======
 _*First author by contribution_
+======
 ## Incentive Design for Sustainable Practices in Smallholder Supply Chains
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
