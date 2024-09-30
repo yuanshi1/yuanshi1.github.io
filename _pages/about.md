@@ -48,8 +48,9 @@ _Major Revision, Management Science_
 ## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
 **Yuan Shi**, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
 
-* To present at INFORMS 2024, featured as outstanding article in Health Care Management Science
 _Health Care Management Science, 2023_
+
+* To present at INFORMS 2024, featured as outstanding publication in Health Care Management Science
 
 ## [Criteria for Early Pacemaker Implantation in Patients With Postoperative Heart Block After Congenital Heart Surgery](https://www.ahajournals.org/doi/full/10.1161/CIRCEP.122.011145)
 Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Brian Han, Danielle Sganga, Michael Ma, Charitha D Reddy, Andrew Y Shin, David M Kwiatkowski, Anne M Dubin, David Scheinker, Claudia A Algaze
