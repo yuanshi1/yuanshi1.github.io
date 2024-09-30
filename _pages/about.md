@@ -57,5 +57,5 @@ Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Bria
 _Circulation: Arrhythmia and Electrophysiology, 2022_
 
 
-_(Last updated in October 2023)_
+_(Last updated in September 2024)_
 
