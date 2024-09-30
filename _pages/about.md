@@ -29,7 +29,6 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 Papers
 ======
 _*First author by contribution_
-
 ## Incentive Design for Sustainable Practices in Smallholder Supply Chains
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
