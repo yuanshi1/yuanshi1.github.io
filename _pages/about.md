@@ -16,7 +16,7 @@ Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanl
 
 Ongoing Projects
 ======
-## Sustainability Contracting under Bounded Rationality
+## Sustainability Contracting under Bounded Rationality: Experiment in the Field
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 
 ## Data-Driven Donation Management in Nonprofit Operations
