@@ -27,7 +27,7 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 ## Data-Driven Donation Management in Nonprofit Operations
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-======
+
 
 Papers
 ======
