@@ -14,15 +14,18 @@ I am passionate about leveraging data analytics, mechanism design and behavioral
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
-Ongoing Projects
+Work in Progress
 ======
 ## Sustainability Contracting under Bounded Rationality: Experiment in the Field
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
-
-## Data-Driven Donation Management in Nonprofit Operations
-Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
+* To present at POMS 2025 conference
 
 ## Robust Fair Allocation under Display-Dependent Demand
+Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
+* To present at INFORMS Computing Society 2025 conference
+* To present at POMS 2025 conference
+
+## Data-Driven Donation Management in Nonprofit Operations
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
 
 
@@ -33,13 +36,12 @@ Papers
 
 _In preparation to be submitted to Management Science_
 
-* To present at INFORMS 2024
-* Presented at INFORMS 2023, POMS 2024 and MSOM 2024
+* Presented at INFORMS 2023, INFORMS 2024, POMS 2024 and MSOM 2024 conferences
 
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi***, Joann de Zegher, Irene Lo
 
-_Major Revision, Management Science_
+_Minor Revision, Management Science_
 
 * Presented at INFORMS 2022
 * Accepted for presentation at Marketplace Innovation Workshop 2022
@@ -50,7 +52,7 @@ _Major Revision, Management Science_
 
 _Health Care Management Science, 2023_
 
-* To present at INFORMS 2024, featured as outstanding publication in Health Care Management Science
+* Presented at INFORMS 2024 conference (featured as outstanding publication in Health Care Management Science)
 
 ## [Criteria for Early Pacemaker Implantation in Patients With Postoperative Heart Block After Congenital Heart Surgery](https://www.ahajournals.org/doi/full/10.1161/CIRCEP.122.011145)
 Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Brian Han, Danielle Sganga, Michael Ma, Charitha D Reddy, Andrew Y Shin, David M Kwiatkowski, Anne M Dubin, David Scheinker, Claudia A Algaze
