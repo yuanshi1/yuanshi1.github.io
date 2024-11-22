@@ -16,7 +16,7 @@ Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanl
 
 Work in Progress
 ======
-## Sustainability Contracting under Bounded Rationality: Experiment in the Field
+## Sustainability Contracting under Bounded Rationality: Lab in the Field
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 * To present at POMS 2025 conference
 
