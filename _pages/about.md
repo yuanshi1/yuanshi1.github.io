@@ -25,9 +25,6 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 * To present at INFORMS Computing Society 2025 conference
 * To present at POMS 2025 conference
 
-## Data-Driven Donation Management in Nonprofit Operations
-Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-
 
 Papers
 ======
