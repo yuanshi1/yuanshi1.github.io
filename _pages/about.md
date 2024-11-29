@@ -20,7 +20,7 @@ Work in Progress
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 * To present at POMS 2025 conference
 
-## Robust Fair Allocation under Display-Dependent Demand
+## Fair Allocation under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
 * To present at INFORMS Computing Society 2025 conference
 * To present at POMS 2025 conference
