@@ -31,10 +31,10 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 Papers
 ======
-## Incentive Design for Sustainable Practices in Smallholder Supply Chains
+## [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053)
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
-_In preparation to be submitted to Management Science_
+_Under review_
 
 * Presented at INFORMS 2023, INFORMS 2024, POMS 2024 and MSOM 2024 conferences
 
