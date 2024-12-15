@@ -38,7 +38,7 @@ _Under review_
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi***, Joann de Zegher, Irene Lo
 
-_Minor Revision, Management Science_
+_Management Science, Forthcoming_
 
 * Presented at INFORMS 2022
 * Accepted for presentation at Marketplace Innovation Workshop 2022
