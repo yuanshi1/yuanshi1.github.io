@@ -60,5 +60,5 @@ _Circulation: Arrhythmia and Electrophysiology, 2022_
 
 _*Indicates first author by contribution_
 
-_(Last updated in September 2024)_
+_(Last updated in December 2024)_
 
