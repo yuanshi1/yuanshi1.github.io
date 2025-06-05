@@ -16,7 +16,7 @@ Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 
 ## Optimizing Nonprofit Operations under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-* Presented at INFORMS Computing Society 2025 conference and POMS 2025 conference
+* Accepted for presentation at 2025 MSOM Main Conference
 
 
 Papers
@@ -26,7 +26,7 @@ Papers
 
 _Submitted_
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
-* Presented at INFORMS 2023, INFORMS 2024, POMS 2024 and MSOM 2024 conferences
+* Accepted for presentation at 2024 MSOM Main Conference
 
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi***, Joann de Zegher, Irene Lo
@@ -34,7 +34,6 @@ _Submitted_
 _Management Science, Forthcoming_
 
 * 2nd Place, 2025 POMS College of Supply Chain Management Best Student Paper Competition
-* Presented at INFORMS 2022
 * Accepted for presentation at Marketplace Innovation Workshop 2022
 * Accepted for presentation at ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'22) 
   
