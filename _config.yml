@@ -152,7 +152,21 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+navigation:
+  - title: "About"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Talks"
+    url: "/talks/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Awards"
+    url: "/awards/"
+  - title: "Miscellaneous"
+    url: "/misc/"
 
+    
 # Conversion
 markdown: kramdown
 highlighter: rouge
