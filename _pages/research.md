@@ -17,6 +17,7 @@ Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 ## Optimizing Nonprofit Operations under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
 * Accepted for presentation at 2025 MSOM Main Conference
+
 </span>
 
 ## _Papers_:
