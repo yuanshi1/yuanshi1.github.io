@@ -152,6 +152,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+  - awards.md
+  - cv.md
+  - misc.md
+  
 navigation:
   - title: "About"
     url: "/"
