@@ -25,7 +25,7 @@ Papers
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
 _Submitted_
-
+* Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
 * Presented at INFORMS 2023, INFORMS 2024, POMS 2024 and MSOM 2024 conferences
 
 ## [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
@@ -36,7 +36,7 @@ _Management Science, Forthcoming_
 * 2nd Place, 2025 POMS College of Supply Chain Management Best Student Paper Competition
 * Presented at INFORMS 2022
 * Accepted for presentation at Marketplace Innovation Workshop 2022
-* Accepted at EAAMO 2022
+* Accepted for presentation at ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'22) 
   
 ## [Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data](https://arxiv.org/abs/2202.06383)
 **Yuan Shi***, Saied Mahdian, Jose Blanchet, Peter Glynn, Andrew Y. Shin, David Scheinker
@@ -54,5 +54,5 @@ _Circulation: Arrhythmia and Electrophysiology, 2022_
 
 _*Indicates first author by contribution_
 
-_(Last updated in December 2024)_
+_(Last updated in June 2025)_
 
