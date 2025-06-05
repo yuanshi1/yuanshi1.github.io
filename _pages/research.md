@@ -9,12 +9,14 @@ Work in Progress
 ======
 ## Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
-* To present at POMS 2025 conference
+* Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025
+* Accepted for presentation at 2025 MSOM Sustainable Operations SIG
+* Accepted for presentation at 2025 Behavioral Operations Conference
+* Presented at POMS 2025 conference
 
 ## Optimizing Nonprofit Operations under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-* To present at INFORMS Computing Society 2025 conference
-* To present at POMS 2025 conference
+* Presented at INFORMS Computing Society 2025 conference and POMS 2025 conference
 
 
 Papers
@@ -22,7 +24,7 @@ Papers
 ## [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053)
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
-_Under review_
+_Submitted_
 
 * Presented at INFORMS 2023, INFORMS 2024, POMS 2024 and MSOM 2024 conferences
 
@@ -31,6 +33,7 @@ _Under review_
 
 _Management Science, Forthcoming_
 
+* 2nd Place, 2025 POMS College of Supply Chain Management Best Student Paper Competition
 * Presented at INFORMS 2022
 * Accepted for presentation at Marketplace Innovation Workshop 2022
 * Accepted at EAAMO 2022
