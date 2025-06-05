@@ -14,5 +14,5 @@ I am passionate about leveraging data, modeling and experiments to address socia
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bechelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
-**I'm on the 2025-26 academic job market!**
+**<span style="color: #1a4d80;">I'm on the 2025-26 academic job market!</span>**
 
