@@ -12,7 +12,6 @@ Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 * Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
-* Presented at POMS 2025 conference
 
 ## Optimizing Nonprofit Operations under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
