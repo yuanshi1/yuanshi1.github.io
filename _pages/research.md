@@ -9,7 +9,7 @@ author_profile: true
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
-* **<span style="color: darkblue;">Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025</span>**
+* <span style="color: darkblue;"><strong>Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025</strong></span>
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
 
