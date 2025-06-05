@@ -152,6 +152,8 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+
     
 # Conversion
 markdown: kramdown
@@ -302,7 +304,9 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+sass:
+  style: compressed
+  
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
