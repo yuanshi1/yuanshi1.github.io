@@ -26,7 +26,7 @@ author_profile: true
 
 ### "Two-Sided Benefit of Price Transparency in Smallholder Supply Chains"
 * Presented at the 35th Annual POMS Conference \| May 2025, Atlanta, GA
-* Presented at the 7th Marketplace Innovation Workshop | May 2022, Virtual presentation
+* Presented at the 7th Marketplace Innovation Workshop \| May 2022, Virtual presentation
 * Presented at the 2022 INFORMS Annual Meeting \| Oct 2022, Indianapolis, IN
   
 ### "Surgical Scheduling via Optimization and Machine Learning with Long-Tailed Data"
