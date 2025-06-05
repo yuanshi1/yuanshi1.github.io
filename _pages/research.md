@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## _Work in Progress_:
+## _Work in Progress_
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
@@ -19,7 +19,7 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 
 
-## _Papers_:
+## _Papers_
 
 ### 3. [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
