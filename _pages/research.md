@@ -7,6 +7,7 @@ author_profile: true
 
 ## _Work in Progress_:
 <span style="font-size: 0.8em;">
+  
 ## Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 * **Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025**
@@ -20,6 +21,7 @@ Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with 
 
 ## _Papers_:
 <span style="font-size: 0.8em;">
+  
 ## [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053)
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
