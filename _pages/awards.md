@@ -5,9 +5,9 @@ permalink: /awards/
 ---
 
 ## Professional Service
+* Coordinator, MIT ORC Seminar Series (Fall 2025)
 * Session Chair, 2025 INFORMS Annual Meeting
 * Session Chair, 2025 POMS Annual Conference
-* Coordinator, MIT ORC Seminar Series (Fall 2025)
 * Reviewer, _Health Care Management Science_
 
 ## Selected Awards
