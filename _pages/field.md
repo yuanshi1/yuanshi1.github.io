@@ -20,7 +20,7 @@ Test Photo Carousel
     <p><em>Field visit with farmer group, Indonesia</em></p>
   </div>
     <div style="min-width: 300px; text-align: center;">
-    <img src="/images/bio-photo.jpg" style="width: 100%; border-radius: 8px;">
+    <img src="/images/image-alignment-1200x4002.jpg" style="width: 100%; border-radius: 8px;">
     <p><em>Field visit with farmer group, Indonesia</em></p>
   </div>
 </div>
