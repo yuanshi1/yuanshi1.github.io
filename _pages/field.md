@@ -4,7 +4,7 @@ title: "Field & Community"
 permalink: /field/
 author_profile: true
 ---
-Test Photo Carousel
+## Field Research in Indonesia, 2023-2024 
 
 <div style="display: flex; overflow-x: scroll; gap: 1rem;">
   <div style="min-width: 300px; text-align: center;">
@@ -24,3 +24,10 @@ Test Photo Carousel
     <p><em>Field visit with farmer group, Indonesia</em></p>
   </div>
 </div>
+
+
+## Field Research in India, 2025-present
+
+
+## Volunteering and Other Engagements
+
