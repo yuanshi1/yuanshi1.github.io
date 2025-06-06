@@ -5,17 +5,14 @@ permalink: /field/
 author_profile: true
 ---
 Test Photo Carousel
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/images/bio-photo-2.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption">First photo caption</div>
-    </div>
-    <div class="carousel-item">
-      <img src="/images/bio-photo.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption">Second photo caption</div>
-    </div>
+
+<div style="display: flex; overflow-x: scroll; gap: 1rem;">
+  <div style="min-width: 300px; text-align: center;">
+    <img src="/images/bio-photo-2.jpg" style="width: 100%; border-radius: 8px;">
+    <p><em>Water access challenges in rural India</em></p>
   </div>
-  <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">‹</a>
-  <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">›</a>
+  <div style="min-width: 300px; text-align: center;">
+    <img src="/images/bio-photo.jpg" style="width: 100%; border-radius: 8px;">
+    <p><em>Field visit with farmer group, Indonesia</em></p>
+  </div>
 </div>
