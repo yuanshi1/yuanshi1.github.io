@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services & Awards"
+title: "Service & Awards"
 permalink: /awards/
 ---
 
