@@ -12,7 +12,7 @@ Here, I share glimpses of that journey and hope to connect with others who care 
 
 
 ### Field Research in Indonesia, 2023-2024 
-In 2023, I began fieldwork in rural Indonesia to better understand the decision-making environment of smallholder palm fruit farmers. What began as a series of interviews turned into a much deeper learning experience: sitting with farmers in their homes, observing harvest routines, and hearing firsthand how livelihood choices are shaped by uncertainty, trust, and tradition. To bridge theory with practice, we designed behavioral experiments that brought incentive tradeoffs into a setting farmers could directly engage with. These "lab-in-the-field" studies offered a rare opportunity to see how abstract economic ideas play out in real-world decisions, and how modeling human decisions, however messy, can inform more effective and empathetic policy design.
+In 2023, we began fieldwork in rural Indonesia to better understand the decision-making environment of smallholder palm fruit farmers. Besides structured interviews and data collection, we spent time sitting with farmers in their homes, observing harvest routines, and listening to how they make tough choices shaped by uncertainty, relationships, and long-standing habits. These experiences inspired us to design behavioral experiments that brought the theory of incentive design into a setting farmers could directly engage with. Our "lab-in-the-field" studies offered an opportunity to see how economic models play out in real-world decisions, and how modeling human decisions, however messy, can lead to more effective policy design.
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
