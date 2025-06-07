@@ -8,6 +8,8 @@ main:
     url: "/talks/"
   - title: "Service & Awards"
     url: "/awards/"
+  - title: "In the Field"
+    url: "/field/"
   # - title: "Teaching"
   #   url: "/teaching/"
   # - title: "Miscellaneous"
