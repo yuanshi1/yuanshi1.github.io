@@ -18,7 +18,8 @@ More recently, we started collaboration with the World Bank 2023 Water Resource 
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
-I have also interned as a research scientist at [Pempem](https://www.pempem.io/), a social enterprise digitizing smallholder supply chains to improve traceability, farmer livelihoods, and environmental impact. Since 2019, I have also volunteered with [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of sustainability-focused social enterprises.
+Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to systems change from the ground up. At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world.
+
 
 ### Photo Gallary
 <div style="display: flex; overflow-x: scroll; gap: 1rem;">
