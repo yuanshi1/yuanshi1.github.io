@@ -12,7 +12,7 @@ Here, I share glimpses of that journey and hope to connect with others who care 
 
 
 ### Field Research in Indonesia, 2023-2024 
-In 2023, we began fieldwork in rural Indonesia to study the smallholder palm oil supply chain. Alongside interviews and data collection, we spent time sitting with farmers in their homes, observing harvest routines, and listening to how they make difficult decisions shaped by uncertainty, relationships, and habits built over years. These experiences inspired us to design behavioral experiments brought incentive theory into a setting farmers could actually engage with. Our “lab-in-the-field” studies gave us a chance to see how economic models hold up in real-world decisions, and how even messy human behavior can be modeled to design better policies.
+In 2023, we began fieldwork in rural Indonesia to study the smallholder palm oil supply chain. Alongside interviews and data collection, we spent time sitting with farmers in their homes, observing harvest routines, and listening to how they make difficult decisions shaped by uncertainty, relationships, and habits built over years. These experiences inspired us to design behavioral experiments that brought incentive theory into a setting farmers could actually engage with. Our “lab-in-the-field” studies gave us a chance to see how economic models hold up in real-world decisions, and how even messy human behavior can be modeled to design better policies.
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
