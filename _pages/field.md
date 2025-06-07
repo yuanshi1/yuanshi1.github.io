@@ -6,21 +6,21 @@ author_profile: true
 ---
 
 
-Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, this is an ongoing pursuit that is both challenging and extremely rewarding. 
+Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities reminds me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, this is an ongoing pursuit that is both challenging and extremely rewarding. 
 
 Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
 
 
 ### Field Research in Indonesia, 2023-2024 
-In 2023, we began fieldwork in rural Indonesia to study the smallholder palm oil supply chain. Alongside interviews and data collection, we spent time sitting with farmers in their homes, observing harvest routines, and listening to how they make difficult decisions shaped by uncertainty, relationships, and habits built over years. These experiences inspired us to design behavioral experiments that brought incentive theory into a setting farmers could actually engage with. Our “lab-in-the-field” studies gave us a chance to see how economic models hold up in real-world decisions, and how even messy human behavior can be modeled to design better policies.
+In 2023, we began fieldwork in rural Indonesia to study the smallholder palm oil supply chain. Alongside interviews and data collection, we spent time sitting with farmers in their homes, observing harvest routines, and listening to how they make difficult decisions shaped by uncertainty, relationships, and habits built over years. These experiences inspired us to design behavioral experiments that brought incentive theory into a setting farmers could actually engage with. Our "lab-in-the-field" studies gave us a chance to see how economic models hold up in real-world decisions, and how even messy human behavior can be modeled to design better policies.
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
-Since 2025, I’ve been working in northern India on a pilot study to encourage sustainable rice farming through a technique known as Direct Seeding of Rice (DSR). This method can significantly reduce water use, but adoption remains low despite its environmental benefits. In partnership with [the World Bank 2030 Water Resource Group](https://www.2030wrg.org/), our team has been designing and testing incentive schemes—simple payment structures meant to nudge farmers toward trying DSR during a critical sowing window. 
+Since 2025, we've been working in northern India on a pilot study to promote sustainable rice farming using a method called Direct Seeding of Rice (DSR). DSR can save a lot of water, but many farmers still hesitate to adopt it due to risks associated with weed growth and lower yield. In partnership with [the World Bank 2030 Water Resource Group](https://www.2030wrg.org/), our team has been designing and testing simple payment schemes to encourage farmers to try DSR during the 2025 rice sowing season.
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
-Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to improving livelihoods and . At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These experiences continue to shape how I think about impact: not just as an academic goal, but as a daily commitment to the communities we work with.
+Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to improving livelihoods and driving change. At [Pempem](https://www.pempem.io/), I helped design digital tools for smallholder supply chains that support better traceability and market access. I also volunteer with [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These roles have kept me close to the real-world challenges that communities face, and remind me why the work matters.
 
 
 ### Photo Gallary
