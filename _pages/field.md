@@ -4,7 +4,9 @@ title: "In the Field"
 permalink: /field/
 author_profile: true
 ---
-Over the course of my research journey, I’ve become increasingly drawn to the human element of OR/OM research. Immersing myself in the day-to-day lives of local communities has revealed how much lies beyond the reach of stylized models and datasets. These experiences continue to motivate me to connect abstract ideas with practical solutions that make a real difference. It’s not easy, and I’m still learning. Here, I share glimpses of that journey and hope to connect with others who are also passionate about grounded, impact-driven work.
+
+
+Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, it is an ongoing pursuit that is both challenging and extremely rewarding. Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
 
 
 ### Field Research in Indonesia, 2023-2024 
