@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, this is an ongoing pursuit that is both challenging and extremely rewarding. Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
+Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, this is an ongoing pursuit that is both challenging and extremely rewarding. 
+
+Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
 
 
 ### Field Research in Indonesia, 2023-2024 
@@ -18,7 +20,7 @@ Since 2025, I’ve been working in northern India on a pilot study to encourage 
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
-Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to systems change from the ground up. At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These experiences continue to shape how I think about impact: not just as an academic goal, but as a daily commitment to the communities we work with.
+Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to improving livelihoods and . At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These experiences continue to shape how I think about impact: not just as an academic goal, but as a daily commitment to the communities we work with.
 
 
 ### Photo Gallary
