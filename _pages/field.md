@@ -22,20 +22,35 @@ Beyond academic research, I’ve been fortunate to work with mission-driven orga
 ### Photo Gallary
 <div style="display: flex; overflow-x: scroll; gap: 1rem;">
   <div style="min-width: 300px; text-align: center;">
-    <img src="/images/bio-photo-2.jpg" style="width: 100%; border-radius: 8px;">
-    <p><em>Water access challenges in rural India</em></p>
+    <img src="/images/Farmer-interview1.png" style="width: 100%; border-radius: 8px;">
+    <p><em>Testing out our initial design of the behavioral experiment in Riau, Indonesia (Nov 2023)</em></p>
   </div>
   <div style="min-width: 300px; text-align: center;">
-    <img src="/images/bio-photo.jpg" style="width: 100%; border-radius: 8px;">
-    <p><em>Field visit with farmer group, Indonesia</em></p>
+    <img src="/images/Farmer-interview2.png" style="width: 100%; border-radius: 8px;">
+    <p><em>Our RA team running the behavioral experiment with farmers in Riau, Indonesia. We were served homemade ice tea by the farmers. (June 2024)</em></p>
   </div>
     <div style="min-width: 300px; text-align: center;">
-    <img src="/images/bio-photo.jpg" style="width: 100%; border-radius: 8px;">
-    <p><em>Field visit with farmer group, Indonesia</em></p>
+    <img src="/images/RA-training.jpg" style="width: 100%; border-radius: 8px;">
+    <p><em>Training the RAs for our experiment. (Sept 2024)</em></p>
   </div>
     <div style="min-width: 300px; text-align: center;">
-    <img src="/images/image-alignment-1200x4002.jpg" style="width: 100%; border-radius: 8px;">
-    <p><em>Field visit with farmer group, Indonesia</em></p>
+    <img src="/images/canal.png" style="width: 100%; border-radius: 8px;">
+    <p><em>In rural Indonesia, tropical peatlands are being cleared for oil palm plantations. This picture shows a recently cleared peat forest, drained by water canals for oil palm plantations. (Nov 2023)</em></p>
+  </div>
+  </div>
+    <div style="min-width: 300px; text-align: center;">
+    <img src="/images/blocks.jpg" style="width: 100%; border-radius: 8px;">
+    <p><em>Local NGOs are actively trying to restore peatlands by building canal blocks that prevent water drainage (top). However, this increases the risk of flooding the plantations, and many blocks were manually destroyed by farmers (bottom). (Nov 2023)</em></p>
+  </div>
+    </div>
+    <div style="min-width: 300px; text-align: center;">
+    <img src="/images/kids.jpg" style="width: 100%; border-radius: 8px;">
+    <p><em>During one of our visits, we were invited to a local school to give a guest lecture! (Sept 2024)</em></p>
+  </div>
+    </div>
+    <div style="min-width: 300px; text-align: center;">
+    <img src="/images/pineapple.png" style="width: 100%; border-radius: 8px;">
+    <p><em>Thank you for browsing! Enjoy this pineapple.(Nov 2023) </em></p>
   </div>
 </div>
 
