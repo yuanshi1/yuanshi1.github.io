@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, it is an ongoing pursuit that is both challenging and extremely rewarding. Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
+Throughout my research journey, I’ve always wondered what OR/OM research could offer to the poorest communities around the world, where resources are scarce and data is messy. As I seek answers, I find myself increasingly drawn to the human side of the problem. Immersing myself in the day-to-day lives of local communities has shown me how much lies beyond the reach of stylized models and datasets, and continues to push me to develop ideas and tools that can truly touch people's lives. For me, this is an ongoing pursuit that is both challenging and extremely rewarding. Here, I share glimpses of that journey and hope to connect with others who care deeply about community-centered, impact-driven work.
 
 
 ### Field Research in Indonesia, 2023-2024 
