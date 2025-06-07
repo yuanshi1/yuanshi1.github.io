@@ -16,7 +16,7 @@ In 2023, we began fieldwork in rural Indonesia to study the smallholder palm oil
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
-Since 2025, we've been working in northern India on a pilot study to promote sustainable rice farming using a method called Direct Seeding of Rice (DSR). DSR can save a lot of water, but many farmers still hesitate to adopt it due to risks associated with weed growth and lower yield. In partnership with [the World Bank 2030 Water Resource Group](https://www.2030wrg.org/), our team has been designing and testing simple payment schemes to encourage farmers to try DSR during the 2025 rice sowing season.
+Since 2025, we've been working in northern India on a pilot study to promote sustainable rice farming using a method called Direct Seeding of Rice (DSR). DSR can save a lot of water, but many farmers still hesitate to adopt it due to risks associated with weed growth and lower yield. In partnership with [the World Bank 2030 Water Resource Group](https://www.2030wrg.org/), we have been designing and testing simple payment schemes to encourage farmers to try DSR during the 2025 rice sowing season.
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
