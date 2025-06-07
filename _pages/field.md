@@ -8,14 +8,15 @@ Over the course of my research journey, I’ve become increasingly drawn to the 
 
 
 ### Field Research in Indonesia, 2023-2024 
-
-One line of my research has focused on the context of smallholder palm fruit farmers in rural Indonesia. I have visited the field multiple times to gather contextual understanding, conduct interviews and behavioral experiments by directly engaging with smallholder farmers. I also interned at [Pempem](https://www.pempem.io/), 
+#### _(with Iskandar Z Siregar and Yanchong Zheng)_
+One line of my research has focused on the context of smallholder palm fruit farmers in rural Indonesia. I have visited the field multiple times to gather contextual understanding and conduct interviews. One of my work (joint work with Karen Zheng and Iskandar Z Siregar) used behavioral experiments that directly engage smallholder farmers in controlled decision making. I have also interned as a research scientist at [Pempem](https://www.pempem.io/), a social enterprise digitizing smallholder supply chains to improve traceability, farmer livelihoods, and environmental impact.
 
 ### Field Research in India, 2025-present
-
+#### _(with Alp Sungu and Yanchong Zheng)_
+More recently, we started collaboration with the World Bank 2023 Water Resource Group to promote the adoption of Direct Seeding of Rice (add introduction) in Uttar Pradesh, India. The pilot field study (joint work with Karen Zheng and Alp Sungu) is currently ongoing where we conduct interviews and distribute different forms of monetary incentives to local farmers. 
 
 ### Volunteering
-
+Since 2019, I have also volunteered with [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of sustainability-focused social enterprises.
 
 ### Photo Gallary
 <div style="display: flex; overflow-x: scroll; gap: 1rem;">
