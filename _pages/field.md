@@ -50,7 +50,7 @@ Beyond academic research, I’ve been fortunate to work with mission-driven orga
     </div>
     <div style="min-width: 300px; text-align: center;">
     <img src="/images/pineapple.png" style="width: 100%; border-radius: 8px;">
-    <p><em>Thank you for browsing! Enjoy this pineapple.(Nov 2023) </em></p>
+    <p><em>Thank you for browsing! Please enjoy this pineapple. (Nov 2023) </em></p>
   </div>
 </div>
 
