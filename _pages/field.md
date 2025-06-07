@@ -9,12 +9,10 @@ Over the course of my research journey, I’ve become increasingly drawn to the 
 
 ### Field Research in Indonesia, 2023-2024 
 One line of my research has focused on the context of smallholder palm fruit farmers in rural Indonesia. I have visited the field multiple times to gather contextual understanding and conduct interviews. One of my work (joint work with Karen Zheng and Iskandar Z Siregar) used behavioral experiments that directly engage smallholder farmers in controlled decision making. 
-
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
-More recently, we started collaboration with the World Bank 2023 Water Resource Group to promote the adoption of Direct Seeding of Rice (add introduction) in Uttar Pradesh, India. The pilot field study (joint work with Karen Zheng and Alp Sungu) is currently ongoing where we conduct interviews and distribute different forms of monetary incentives to local farmers. 
-
+Since 2025, I’ve been working in northern India on a pilot sutdy to encourage sustainable rice farming through a technique known as Direct Seeding of Rice (DSR). This method can significantly reduce water use, but adoption remains low despite its environmental benefits. In partnership with the World Bank Water Resource Group, our team has been designing and testing incentive schemes—simple payment structures meant to nudge farmers toward trying DSR during a critical sowing window. 
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
