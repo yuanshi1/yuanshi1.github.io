@@ -8,15 +8,15 @@ Over the course of my research journey, I’ve become increasingly drawn to the 
 
 
 ### Field Research in Indonesia, 2023-2024 
-One line of my research has focused on the context of smallholder palm fruit farmers in rural Indonesia. I have visited the field multiple times to gather contextual understanding and conduct interviews. One of my work (joint work with Karen Zheng and Iskandar Z Siregar) used behavioral experiments that directly engage smallholder farmers in controlled decision making. 
+In 2023, I began fieldwork in rural Indonesia to better understand the decision-making environment of smallholder palm fruit farmers. What began as a series of interviews turned into a much deeper learning experience: sitting with farmers in their homes, observing harvest routines, and hearing firsthand how livelihood choices are shaped by uncertainty, trust, and tradition. To bridge theory with practice, we designed behavioral experiments that brought incentive tradeoffs into a setting farmers could directly engage with. These "lab-in-the-field" studies offered a rare opportunity to see how abstract economic ideas play out in real-world decisions, and how modeling human decisions, however messy, can inform more effective and empathetic policy design.
 _(with Iskandar Z Siregar and Yanchong Zheng)_
 
 ### Field Research in India, 2025-present
-Since 2025, I’ve been working in northern India on a pilot sutdy to encourage sustainable rice farming through a technique known as Direct Seeding of Rice (DSR). This method can significantly reduce water use, but adoption remains low despite its environmental benefits. In partnership with the World Bank Water Resource Group, our team has been designing and testing incentive schemes—simple payment structures meant to nudge farmers toward trying DSR during a critical sowing window. 
+Since 2025, I’ve been working in northern India on a pilot study to encourage sustainable rice farming through a technique known as Direct Seeding of Rice (DSR). This method can significantly reduce water use, but adoption remains low despite its environmental benefits. In partnership with [the World Bank 2030 Water Resource Group](https://www.2030wrg.org/), our team has been designing and testing incentive schemes—simple payment structures meant to nudge farmers toward trying DSR during a critical sowing window. 
 _(with Alp Sungu and Yanchong Zheng)_
 
 ### Other Engagements
-Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to systems change from the ground up. At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world.
+Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to systems change from the ground up. At [Pempem](https://www.pempem.io/), I contributed to building digital tools for smallholder supply chains that help improve traceability and market access. I also actively volunteer at [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These experiences continue to shape how I think about impact: not just as an academic goal, but as a daily commitment to the communities we work with.
 
 
 ### Photo Gallary
