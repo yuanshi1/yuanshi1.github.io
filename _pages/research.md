@@ -50,7 +50,7 @@ _**Circulation: Arrhythmia and Electrophysiology**, 2022_
 
 
 ## _Undergraduate Thesis_
-In a previous life, I wanted to be a theoretical physicist and had a lot of fun writing my thesis on gravitational waves detection.
+In a previous life, I wanted to be a theoretical physicist and had a lot of fun writing my thesis on gravitational wave detection.
 ### [A Review of Experimental Techniques for Gravitational Wave Detection at LIGO](/files/Gravitational_Wave_Detection_with_LIGO.pdf)
 
 
