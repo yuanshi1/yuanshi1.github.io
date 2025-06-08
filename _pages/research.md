@@ -13,21 +13,20 @@ Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
 
-### 2. Optimizing Nonprofit Operations under Display-Dependent Demand
-Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-* Accepted for presentation at 2025 MSOM Main Conference
-
-
-
-## _Published or Submitted Papers_
-
-### 3. [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
+### 2. [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
 **Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
 
 _Submitted_
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
 * Accepted for presentation at 2024 MSOM Main Conference
 
+### 3. Optimizing Nonprofit Operations under Display-Dependent Demand
+Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
+* Accepted for presentation at 2025 MSOM Main Conference
+
+
+
+## _Publications_
 
 ### 4. [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi***, Joann de Zegher, Irene Lo
