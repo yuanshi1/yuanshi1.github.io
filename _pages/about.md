@@ -16,6 +16,15 @@ Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanl
 
 **<span style="color: #008080;">✨I'm on the 2025-26 academic job market!</span>**
 
-<a href="/files/Yuan_CV.pdf" target="_blank" style="padding: 8px 16px; background-color: #2a7ae2; color: white; border-radius: 6px; text-decoration: none;">
+<a href="/files/Yuan_CV.pdf" target="_blank" style="
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1.5px solid #2a7ae2;
+  color: #2a7ae2;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+">
 View My CV
 </a>
