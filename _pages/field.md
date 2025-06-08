@@ -20,7 +20,7 @@ _(with Alp Sungu and Yanchong Zheng)_
 Beyond academic research, I’ve been fortunate to work with mission-driven organizations committed to improving livelihoods and driving change. At [Pempem](https://www.pempem.io/), I helped design digital tools for smallholder supply chains that support better traceability and market access. I also volunteer with [Bridges for Enterprise](https://www.bridgesforenterprise.com/), where I led initiatives to measure and improve the social impact of early-stage social enterprises in the developing world. These roles have kept me close to the real-world challenges that communities face, and remind me why the work matters.
 
 
-### Photo Gallary
+## Photo Gallary
 <div style="display: flex; overflow-x: scroll; gap: 1rem;">
   <div style="min-width: 300px; text-align: center;">
     <img src="/images/Farmer-interview1.png" style="width: 100%; border-radius: 8px;">
