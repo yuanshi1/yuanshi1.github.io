@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## _Work in Progress_
+## _Working Papers_
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
 Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
