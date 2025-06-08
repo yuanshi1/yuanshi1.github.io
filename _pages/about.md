@@ -19,8 +19,8 @@ Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanl
 <a href="/files/Yuan_CV.pdf" target="_blank" style="
   display: inline-block;
   padding: 8px 16px;
-  border: 1.5px solid #2a7ae2;
-  color: #2a7ae2;
+  border: 1.5px solid #008080;
+  color: #008080;
   border-radius: 6px;
   text-decoration: none;
   font-weight: 500;
