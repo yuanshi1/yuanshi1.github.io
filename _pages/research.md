@@ -8,13 +8,13 @@ author_profile: true
 ## _Working Papers_
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
-Joint work with Karen Yanchong Zheng and Iskandar Z Siregar
+**Yuan Shi***, Iskandar Z Siregar, Yanchong Zheng
 * **<span style="color: #336699;">Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025</span>**
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
 
 ### 2. [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
-**Yuan Shi***, Joann de Zegher and Karen Yanchong Zheng
+**Yuan Shi***, Joann de Zegher, Yanchong Zheng
 
 _Submitted_
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
