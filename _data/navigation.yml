@@ -4,14 +4,15 @@ main:
     url: "/"
   - title: "Research"
     url: "/research/"
+  - title: "In the Field"
+    url: "/field/"
   - title: "Talks"
     url: "/talks/"
   - title: "Teaching"
     url: "/teaching/"
   - title: "Service & Awards"
     url: "/awards/"
-  - title: "In the Field"
-    url: "/field/"
+
 
   # - title: "Miscellaneous"
   #   url: "/misc/"
