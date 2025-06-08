@@ -10,11 +10,11 @@ redirect_from:
 
 I am a rising fifth-year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and previously by Prof. [Joann de Zegher](https://mitsloan.mit.edu/staff/directory/joann-de-zegher). 
 
-I am passionate about leveraging data, modeling and experiments for social good, in areas including sustainability, nonprofit operations and healthcare provision. 
+I am passionate about leveraging data, modeling and experiments for social good, in areas including sustainability, nonprofit operations and healthcare provision. My research centers on understanding real-world decision-making and developing practical solutions with tangible impact. 
 
-My research centers on understanding real-world decision-making and developing practical solutions with tangible impact. I currently focus on:
-(i) improving livelihoods and sustainability in smallholder supply chains, and
-(ii) optimizing nonprofit operations.
+I currently focus on:
+* improving livelihoods and sustainability in smallholder supply chains, and
+* optimizing nonprofit operations.
 
 Prior to MIT, I have worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China (Hangzhou) and Singapore. 
 
