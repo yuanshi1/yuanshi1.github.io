@@ -15,8 +15,6 @@ author_profile: true
 
 ### 2. [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
 **Yuan Shi***, Joann de Zegher, Yanchong Zheng
-
-_Submitted_
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
 * Accepted for presentation at 2024 MSOM Main Conference
 
