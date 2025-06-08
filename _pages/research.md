@@ -47,10 +47,10 @@ Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Bria
 
 _**Circulation: Arrhythmia and Electrophysiology**, 2022_
 
-## _Undergraduate Thesis_
-### [A Review of Experimental Techniques for Gravitational Wave Detection at LIGO]()
-
 _*Indicates first author by contribution_
 
-_(Last updated in June 2025)_
+### _Undergraduate Thesis_
+### [A Review of Experimental Techniques for Gravitational Wave Detection at LIGO](/files/Gravitational_Wave_Detection_with_LIGO.pdf)
+
+
 
