@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 _*Indicates first author by contribution_
-
 ## _Working Papers_
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
