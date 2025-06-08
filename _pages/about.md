@@ -12,7 +12,7 @@ I am a rising fifth-year PhD student at MIT Operations Research Center advised b
 
 I am passionate about leveraging data, modeling and experiments for social good, in areas including sustainability, nonprofit operations and healthcare provision. My research centers on understanding real-world decision-making and developing practical solutions with tangible impact. Some of my current projects include (i) improving livelihoods and sustainability in smallholder supply chains, and (ii) optimizing nonprofit operations.
 
-Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in Hangzhou, China and Singapore. 
+Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. Originally from Hangzhou, China, I spent much of my teenage years in Singapore.
 
 **<span style="color: #008080;">✨I'm on the 2025-26 academic job market!</span>**
 
