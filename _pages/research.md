@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+_*Indicates first author by contribution_
+
 ## _Working Papers_
   
 ### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
@@ -47,7 +49,6 @@ Son Q Duong, **Yuan Shi**, Heather Giacone, Brittany M Navarre, Dana B Gal, Bria
 
 _**Circulation: Arrhythmia and Electrophysiology**, 2022_
 
-_*Indicates first author by contribution_
 
 ### _Undergraduate Thesis_
 ### [A Review of Experimental Techniques for Gravitational Wave Detection at LIGO](/files/Gravitational_Wave_Detection_with_LIGO.pdf)
