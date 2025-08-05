@@ -8,7 +8,7 @@ permalink: /awards/
 * Coordinator, MIT ORC Seminar Series (Fall 2025)
 * Session Chair, 2025 INFORMS Annual Meeting
 * Session Chair, 2025 POMS Annual Conference
-* Reviewer, _Health Care Management Science_
+* Reviewer, _Health Care Management Science, Manufacturing & Service Operations Management_
 
 ## Selected Awards
 * Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025
