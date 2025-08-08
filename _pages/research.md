@@ -8,7 +8,7 @@ author_profile: true
 _*Indicates first author by contribution_
 ## _Working Papers_
   
-### 1. Incentivizing Smallholder Supplier Sustainability under Behavioral Regularities
+### 1. [Incentivizing Smallholder Farmer Sustainability under Behavioral Regularities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384620)
 **Yuan Shi***, Iskandar Z Siregar, Yanchong Zheng
 * **<span style="color: #336699;">Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025</span>**
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
