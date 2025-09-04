@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fifth-year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and previously by Prof. [Joann de Zegher](https://mitsloan.mit.edu/staff/directory/joann-de-zegher). 
+I am a fifth-year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and previously by Prof. [Joann de Zegher](https://mitsloan.mit.edu/staff/directory/joann-de-zegher). 
 
 My work brings together theory, analytics, and fieldwork to tackle complex challenges for social good. I believe in choosing the right tool for the problem: depending on the context, I build theoretical models, develop data-driven decision tools, or run experiments in the field. At the core, I’m passionate about understanding real-world decision-making and designing scalable solutions that drive meaningful impact. Current projects include (i) improving livelihoods and sustainability in smallholder supply chains, and (ii) optimizing nonprofit operations.
 
