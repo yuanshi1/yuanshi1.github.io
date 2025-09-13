@@ -21,7 +21,7 @@ _*Indicates first author by contribution_
 
 ### 3. Optimizing Nonprofit Operations under Display-Dependent Demand
 Joint work with Karen Yanchong Zheng and Mahyar Eftekhar, in collaboration with Midwest Food Bank, Arizona
-* Accepted for presentation at 2025 MSOM Main Conference
+* Accepted for presentation at 2025 MSOM Main Conference \[[Extended Abstract](/files/foodbank_MSOM_extended_abstract.pdf)\]
 
 
 
