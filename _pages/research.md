@@ -60,7 +60,7 @@ _In Preparation for **Manufacturing & Service Operations Management**_
 ### 7. Payment Models for Climate-Targeted Farming: A Field Experiment in India
 With Alp Sungu and Yanchong Zheng, in collaboration with the World Bank 2030 Water Resources Group
 
-_Pilot experiment under way_(AEA Registry: [15873](https://www.socialscienceregistry.org/trials/15873))
+_Pilot experiment under way_  (AEA Registry: [15873](https://www.socialscienceregistry.org/trials/15873))
 
 
 ## _Undergraduate Thesis_
