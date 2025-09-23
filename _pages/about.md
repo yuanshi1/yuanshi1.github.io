@@ -16,7 +16,7 @@ Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in
 
 **<span style="color: #008080;">✨I'm on the 2025-26 academic job market!</span>**
 
-<a href="/files/Yuan_CV.pdf" target="_blank" style="
+<a href="/files/Yuan_CV_US.pdf" target="_blank" style="
   display: inline-block;
   padding: 8px 16px;
   border: 1.5px solid #008080;
