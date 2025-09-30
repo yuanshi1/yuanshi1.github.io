@@ -28,7 +28,7 @@ _Soon to be resubmitted to **Management Science**_
 ### 3. [Two-Sided Benefit of Price Transparency in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928)
 **Yuan Shi***, Joann de Zegher, Irene Lo
 
-_**Management Science**, Article in Advnace_ ([Link](https://pubsonline-informs-org.libproxy.mit.edu/doi/full/10.1287/mnsc.2023.01617))
+_**Management Science**, Article in Advance_ ([Link](https://pubsonline-informs-org.libproxy.mit.edu/doi/full/10.1287/mnsc.2023.01617))
 
 * **<span style="color: #336699;">2nd Place, 2025 POMS College of Supply Chain Management Best Student Paper Competition</span>**
 * Accepted for presentation at Marketplace Innovation Workshop 2022
