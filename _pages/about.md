@@ -14,9 +14,7 @@ My work brings together theory, analytics, and fieldwork to tackle complex chall
 
 Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. Originally from Hangzhou, China, I spent much of my teenage years in Singapore.
 
-**<span style="color: #008080;">✨I'm on the 2025-26 academic job market!</span>** I will be presenting at the following sessions at the 2025 INFORMS Annual meeting:
-* **Session SC51: Emerging Topics in Socially Responsible Operations**, Sunday, October 26, 2:09PM – 2:27PM at Building B Level 3 B311 (on behalf of Prof. Yanchong Zheng)
-* **Session ME12: Job Market Candidates at the Research Frontier**, Monday, October 27, 4:15PM - 4:33PM at Building A Level 3 A314
+**<span style="color: #008080;">✨I'm joining Cambridge Judge Business School as a tenure-track Assistant Professor in Operations and Technology Management in Fall 2026!</span>** 
 
 <a href="/files/Yuan_CV_US.pdf" target="_blank" style="
   display: inline-block;
