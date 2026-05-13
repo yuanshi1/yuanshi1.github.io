@@ -11,9 +11,10 @@ _*Indicates lead author_
 ### 1. [Incentivizing Smallholder Farmer Sustainability under Behavioral Regularities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384620)
 **Yuan Shi***, Iskandar Z Siregar, Yanchong Zheng
 
-_Under Review at **Management Science**_
+_Submitted_
 
 * **<span style="color: #336699;">Winner, MIT Operations Research Center (ORC) Best Student Paper Award, 2025</span>**
+* **<span style="color: #336699;">Winner, POMS College of Sustainable Operations Student Paper Competition, 2026</span>**
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
 
