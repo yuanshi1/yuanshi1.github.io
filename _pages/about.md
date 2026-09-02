@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student at MIT Operations Research Center advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/) and previously by Prof. [Joann de Zegher](https://mitsloan.mit.edu/staff/directory/joann-de-zegher). 
+I am a tenure-track Assistant Professor at University of Cambridge. I am a member of the Operations and Technology Management subject group at Cambridge Judge Business School, which uses interdisciplinary, practice-based research to address a wide range of management challenges.
 
-My work brings together theory, analytics, and fieldwork to tackle complex challenges for social good. I believe in choosing the right tool for the problem: depending on the context, I build theoretical models, develop data-driven decision tools, or run experiments in the field. At the core, I’m passionate about understanding real-world decision-making and designing scalable solutions that drive meaningful impact. Current projects include (i) improving livelihoods and sustainability in smallholder supply chains, and (ii) optimizing nonprofit operations.
 
-Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. Originally from Hangzhou, China, I spent much of my teenage years in Singapore.
 
-**<span style="color: #008080;">✨I'm joining Cambridge Judge Business School as a tenure-track Assistant Professor in Operations and Technology Management in Fall 2026!</span>** 
+My research interests lie in sustainable and socially responsible operations. My work focuses on how incentives, information, and technology can improve decision-making and outcomes in resource-constrained settings. I study problems in global food supply chains and other socially important operational settings, combining mathematical modelling, data analytics, and field experiments. Through close collaborations with organisations in emerging markets, I aim to develop interventions that are both analytically rigorous and practically implementable.
+
+
+I received my PhD in Operations Research from MIT in 2026, where I was advised by Prof. [Karen Zheng](https://mitmgmtfaculty.mit.edu/yanchong/). Prior to MIT, I worked as a financial derivative structurer at Morgan Stanley in London. I received my Bachelor's degree in Natural Sciences (Physics) from University of Cambridge and my Master's degree in Management Science and Engineering from Stanford University. I grew up in China and Singapore.
+
 
 <a href="/files/Yuan_CV_US.pdf" target="_blank" style="
   display: inline-block;
