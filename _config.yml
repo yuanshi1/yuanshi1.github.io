@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : 'Yuan Shi'
 title_separator          : "-"
-name                     : &name "Yuan who needs a job. Thank you for your support"
+name                     : &name "Yuan Shi"
 description              : &description "personal description"
 url                      : https://yuanshi1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Yuan Shi"
   avatar           : "ys2.jpg"
-  bio              : "PhD Candidate in Operations Research at MIT | Sustainable Operations and Social Good"
+  bio              : "Assistant Professor at Cambridge University | Sustainable Operations and Social Good"
   location         : "Boston, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TXJ5cowAAAAJ&hl=en"
-  email            : "yuansh@mit.edu"
+  email            : "y.shi2@jbs.cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
