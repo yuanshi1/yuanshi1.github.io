@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor at University of Cambridge. I am a member of the Operations and Technology Management subject group at Cambridge Judge Business School, which uses interdisciplinary, practice-based research to address a wide range of management challenges.
+I am a tenure-track Assistant Professor at Cambridge Judge Business School, University of Cambridge. I am a member of the Operations and Technology Management subject group, which uses interdisciplinary, practice-based research to address a wide range of management challenges.
 
 
 
