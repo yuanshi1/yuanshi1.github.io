@@ -18,10 +18,10 @@ _Submitted_
 * Accepted for presentation at 2025 MSOM Sustainable Operations SIG
 * Accepted for presentation at 2025 Behavioral Operations Conference
 
-### 2. Toward Permanence: Contract Design for Sustainable Agriculture
-**Yuan Shi***, Joann de Zegher, Yanchong Zheng; Previously circulated as [Incentive Design for Sustainable Practices in Smallholder Supply Chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053) 
+### 2. [Toward Permanence: Contract Design for Sustainable Agriculture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039053)
+**Yuan Shi***, Joann de Zegher, Yanchong Zheng; 
 
-_Soon to be resubmitted to **Management Science**_
+_Under Second Round of Review at **Management Science**_
 
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
 * Accepted for presentation at 2024 MSOM Main Conference
