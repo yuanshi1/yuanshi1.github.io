@@ -23,6 +23,7 @@ _Submitted_
 
 _Under Second Round of Review at **Management Science**_
 
+* Accepted at ACM EAAMO 2026
 * Accepted for presentation at 2025 Early-Career Sustainable Operations Management Workshop
 * Accepted for presentation at 2024 MSOM Main Conference
 
